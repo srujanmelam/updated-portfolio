@@ -6,29 +6,29 @@ import six from '../assets/svg/projects/six.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'Ayla Networks',
-        projectDesc: 'This project about Simplifying the Development of Smart Home & IoT Solutions.',
-        tags: ['React', 'SAAS', 'React Bootstrap'],
+        projectName: 'Employee DashBoard Application',
+        projectDesc: ' An office management application of the employees in which employee registers into the application using only the company domain.',
+        tags: ['Angular', 'SpringBoot', 'My Sql'],
         code: '',
-        demo: 'https://www.aylanetworks.com/',
+        demo: '',
         image: six
     },
     {
         id: 2,
-        projectName: 'Jewelry Niche',
-        projectDesc: 'This project is a Jewelry shop, Customer can be buy product and manage them and make payment.',
-        tags: ['React', 'Express', 'Material Ui'],
-        code: 'https://github.com/said7388/jewelry-niche',
-        demo: 'https://pandora-web.netlify.app/',
+        projectName: ' Automatic Question Answering System',
+        projectDesc: ' A best suited answer was given by the system from a pre-defined data-set of Q&A of a domain where the user enters his own question and finally gets the best suited answer.ArrayList and implemented several oops techniques.',
+        tags: ['Python', 'Bag Of Words', 'Cosine Similarity'],
+        code: 'https://github.com/srujanmelam/Automated-Question-Answering',
+        demo: 'https://github.com/srujanmelam/Automated-Question-Answering',
         image: seven
     },
     {
         id: 3,
-        projectName: 'Travel Agency',
-        projectDesc: 'This project about travel agency management.',
-        tags: ['React', 'CSS', 'Material Ui'],
-        code: 'https://github.com/said7388/Travel-Agency-client',
-        demo: 'https://travel-agency-fc58b.web.app/',
+        projectName: 'Bank Application',
+        projectDesc: 'A BankSystem, which maintains the details of individual customers',
+        tags: ['Core Java', 'Collections', 'Object Oriented Programming'],
+        code: '',
+        demo: '',
         image: eight
     }
 ]
