@@ -10,8 +10,8 @@ export const experienceData = [
         id: 2,
         company: 'AutomationEdge Technologies',
         jobtitle: 'Development Intern',
-        startYear: 'Jan 2023',
-        endYear: 'Jul 2023'
+        startYear: 'Jun 2022',
+        endYear: 'Jun 2023'
     },
     {
         id: 3,
